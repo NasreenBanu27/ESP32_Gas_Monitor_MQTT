@@ -1,5 +1,3 @@
-# ESP32_Gas_Monitor_MQTT
-IOT gas monitoring project 
 # ESP32 Gas Monitor (MQTT)
 
 This project monitors gas levels using ESP32 and MQ2 sensor and publishes data to MQTT broker. 
